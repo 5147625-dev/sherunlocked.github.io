@@ -1,6 +1,4 @@
 # sherunlocked.github.io
-
-<!DOCTYPE html>
 <html lang="cs">
 <head>
 <meta charset="UTF-8">
