@@ -233,7 +233,7 @@ placeholder="Vložte zašifrovanou zprávu..."></textarea>
 <input id="key" type="text"
 placeholder="Zadejte klíč...">
 
-<label for="personal">3. Osobní číslo (přesně 8 číslic)</label>
+<label for="personal">3. Osobní číslo </label>
 <input id="personal" type="text"
 inputmode="numeric"
 maxlength="8"
