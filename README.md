@@ -833,7 +833,7 @@ function decrypt() {
 
                 for (let r = 0; r < rows; r++) {
 
-                    const keyIndex = c * rows + r;
+                    const keyIndex = block * rows * cols + c * rows + r;
 
                     // Pokud je klíč kratší než zpráva,
                     // opakuje se od začátku.
