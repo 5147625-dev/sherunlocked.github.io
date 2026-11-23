@@ -13,8 +13,8 @@
 body {
     margin: 0;
     padding: 25px 15px;
-    background: #f2f4f8;
-    color: #202638;
+    background: #151923;
+    color: #f1f5f9;
     font-family: Arial, sans-serif;
 }
 
