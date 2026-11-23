@@ -93,7 +93,7 @@ button {
 }
 
 button:hover {
-    background: #1c6dcc;
+    background: black;
 }
 
 .secondary {
