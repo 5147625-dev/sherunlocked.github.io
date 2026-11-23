@@ -239,9 +239,9 @@ placeholder="Např. 58120547">
 
 <label for="gender">4. Pohlaví příjemce</label>
 <select id="gender">
-    <option value="male">Male</option>
-    <option value="female">Female</option>
-    <option value="nonbinary">Nonbinary</option>
+    <option value="male">Muž</option>
+    <option value="female">Žena</option>
+    <option value="nonbinary">Nebinární</option>
 </select>
 
 <label>5. Fibonacciho velikost matice</label>
