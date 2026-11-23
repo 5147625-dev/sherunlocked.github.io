@@ -21,7 +21,7 @@ body {
 .container {
     max-width: 950px;
     margin: auto;
-    background: white;
+    background: #222938;
     padding: 30px;
     border-radius: 14px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.08);
@@ -30,12 +30,12 @@ body {
 h1 {
     text-align: center;
     margin-top: 0;
-    color: #243b64;
+    color: #61a5ff;
 }
 
 h2 {
     margin-top: 30px;
-    color: #243b64;
+    color: #61a5ff;
     font-size: 21px;
 }
 
@@ -59,6 +59,8 @@ input, select, textarea {
     border-radius: 7px;
     font-size: 16px;
     font-family: Arial, sans-serif;
+    background: #151923;
+    color: white;
 }
 
 textarea {
@@ -83,7 +85,7 @@ button {
     padding: 15px;
     border: none;
     border-radius: 8px;
-    background: #294b80;
+    background: #3285ed;
     color: white;
     font-size: 17px;
     font-weight: bold;
@@ -91,7 +93,7 @@ button {
 }
 
 button:hover {
-    background: #19365f;
+    background: #1c6dcc;
 }
 
 .secondary {
@@ -116,10 +118,12 @@ button:hover {
 .result {
     display: none;
     margin-top: 30px;
+    color: #192f40;
+    background:#111e2b;
 }
 
 .final-message {
-    background: #e9f5ec;
+    background: #111e2b;
     border: 1px solid #b9ddc1;
     padding: 20px;
     border-radius: 9px;
@@ -139,7 +143,7 @@ button:hover {
 }
 
 .step {
-    background: #f6f7fa;
+    background: #111e2b;
     border: 1px solid #dce1e9;
     border-radius: 9px;
     padding: 18px;
